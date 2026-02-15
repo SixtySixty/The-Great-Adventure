@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/VanillaTweaks_r270445_MC1.21.x.zip"]
-incompatibleResourcePacks:["file/VanillaTweaks_r270445_MC1.21.x.zip"]
+resourcePacks:["vanilla","mod_resources","file/BetterVanillaBuildingV3.5.zip","file/VanillaTweaks_r466428_MC1.21.x.zip","file/EGG textures 1.21.5 (25w08a).zip","file/Atmospheric Skies \u0026 Fog 1.3.zip","file/Brush+Juice-4.5.1.zip","file/§bArmor§8-§bReimagined§0_§8[v1.1]§0.zip","file/FA+Player-v1.0.zip","file/Enchanced Evil.zip"]
+incompatibleResourcePacks:["file/VanillaTweaks_r466428_MC1.21.x.zip","file/Enchanced Evil.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
