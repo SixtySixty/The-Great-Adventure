@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:7
 renderClouds:"true"
-resourcePacks:["vanilla","mod_resources","file/BetterVanillaBuildingV3.5.zip","file/Brush+Juice-4.5.1.zip","file/VanillaTweaks_r928545_MC1.21.x.zip","file/EGG textures 1.21.5 (25w08a).zip","file/§bArmor§8-§bReimagined§0_§8[v1.1]§0.zip","file/FA+Player-v1.0.zip","file/Enchanced Evil.zip","file/FreshAnimations_v1.10.3.zip"]
-incompatibleResourcePacks:["file/VanillaTweaks_r928545_MC1.21.x.zip","file/Enchanced Evil.zip"]
+resourcePacks:["vanilla","mod_resources","file/VanillaTweaks_r928545_MC1.21.x.zip","file/BetterVanillaBuildingV3.5.zip","file/Brush+Juice-4.5.1.zip","file/Fancy End - RP 1.15+.zip","file/EGG textures 1.21.5 (25w08a).zip","file/Refined-Armor-1.0-1.19.zip","file/Enchanced Evil.zip","file/FreshAnimations_v1.10.3.zip","file/FA+Player-v1.0.zip","file/§6Immersive§8_§6Interfaces§8.zip","file/§bHUD§8-§bReimagined§0_§8[v1]§0.zip","file/Seri\u0027s better Banners.zip","file/Os\u0027 Colorful Grasses (Short).zip","file/Simple Grass Flowers v1.9.6.zip","file/Fancy Crops v1.3.zip","file/Fresh Food 1.3.2.zip","file/trabens-3d-arrows-1.1.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -120,8 +120,9 @@ key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_key.fog.toggle:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
